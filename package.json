@@ -1,0 +1,11 @@
+{
+  "name": "vue-toast3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vue-toast.js",
+  "scripts": {
+    "node": "node vue-toast.js"
+  },
+  "author": "Abigale",
+  "license": "ISC"
+}
